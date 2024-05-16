@@ -15,7 +15,7 @@ Przekształć swoje pomysły w rzeczywistość z WBW Company! Oferujemy kompleks
 - **Bezproblemowość**: Skup się na swoim biznesie, a my zajmiemy się hostingiem, aktualizacjami i bezpieczeństwem.
 
 ### WBW Company - Osiągniecia
-- Bill Gates był u nas na prkatykach.
+- Bill Gates był u nas na praktykach.
 - Zorganizowaliśmy turniej Super Smash Bros między CEO a stażystą - stażysta wygrał.
 - Zbudowaliśmy aplikację, która sama pisze swoje dokumentacje (prawie jak AI... prawie).
 - Nasze spotkania mają więcej pizzy niż uczestników.
