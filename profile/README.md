@@ -14,7 +14,7 @@ Przekształć swoje pomysły w rzeczywistość z WBW Company! Oferujemy kompleks
 - **Personalizacja**: Rozwiązania dopasowane do Twoich specyficznych potrzeb.
 - **Bezproblemowość**: Skup się na swoim biznesie, a my zajmiemy się hostingiem, aktualizacjami i bezpieczeństwem.
 
-### WBW Company - Osiagniecia
+### WBW Company - Osiągniecia
 - Bill Gates był u nas na prkatykach.
 - Zorganizowaliśmy turniej Super Smash Bros między CEO a stażystą - stażysta wygrał.
 - Zbudowaliśmy aplikację, która sama pisze swoje dokumentacje (prawie jak AI... prawie).
