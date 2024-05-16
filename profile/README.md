@@ -1,6 +1,6 @@
 # WBW Company
 
-Witamy w organizacji GitHub WBW Company! Oto krótki przegląd naszych rozwiązań w zakresie tworzenia aplikacji:
+Witamy w organizacji GitHub WBW Company! Nasze repozytoria są **ekwiwalentem wody święconej**. Oto krótki przegląd naszych rozwiązań w zakresie tworzenia aplikacji:
 
 ## Wersja Beta
 
@@ -13,6 +13,16 @@ Przekształć swoje pomysły w rzeczywistość z WBW Company! Oferujemy kompleks
 - **Najnowocześniejsze Technologie**: Wykorzystaj najnowsze trendy i technologie, aby tworzyć aplikacje najwyższej jakości.
 - **Personalizacja**: Rozwiązania dopasowane do Twoich specyficznych potrzeb.
 - **Bezproblemowość**: Skup się na swoim biznesie, a my zajmiemy się hostingiem, aktualizacjami i bezpieczeństwem.
+
+### WBW Company - Osiagniecia
+- Bill Gates był u nas na prkatykach.
+- Zorganizowaliśmy turniej Super Smash Bros między CEO a stażystą - stażysta wygrał.
+- Zbudowaliśmy aplikację, która sama pisze swoje dokumentacje (prawie jak AI... prawie).
+- Nasze spotkania mają więcej pizzy niż uczestników.
+- Nasze memy zespołowe są bardziej popularne niż oficjalne komunikaty.
+- Nasza kuchnia jest bardziej znana niż nasze ostatnie wdrożenia.
+- Nasz serwer przetrwał inwazję marsjańskich programistów.
+- Przekroczyliśmy 1000 commitów w piżamach
 
 ### WBW Company - Przydatne Linki
 
