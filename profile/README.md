@@ -29,5 +29,4 @@ Przekształć swoje pomysły w rzeczywistość z WBW Company! Oferujemy kompleks
 - Strona Główna: [https://wbwcompany.com/](https://wbwcompany.com/)
 - Portal Deweloperski: [https://dev.wbwcompany.com/](https://dev.wbwcompany.com/)
 - Dokumentacja API: [https://github.com/WBWCompany/api-docs](https://github.com/WBWCompany/api-docs)
-- Zaproszenie na serwer Discord: [https://discord.com/invite/WBWCompany](https://discord.com/invite/WBWCompany)
-- Projekt Backlog (TODO): [https://trello.com/b/WBWCompany/todo](https://trello.com/b/WBWCompany/todo)
+- Zaproszenie na serwer Discord: [https://discord.gg/sV8hb3AcnT](https://discord.gg/sV8hb3AcnT)
