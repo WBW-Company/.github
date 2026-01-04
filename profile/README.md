@@ -1,34 +1,70 @@
-# WBW Company - Gdzie Kod Jest Jak Woda... Święcona, Ale Lepsza!
+<div align="center">
 
-Elo melo w organizacji GitHub WBW Company! Nasze repozytoria to nie w kij dmuchał – są tak czyste, że moglibyśmy tam chrzcić niemowlęta (ale nie robimy tego, bo RODO). Oto co robimy, żebyś Ty nie musiał się męczyć z kodem:
+  <img src="https://www.sienaucze.pl/logo-white.webp" alt="WBW Logo" width="200" height="200" />
+  
+  **Gdzie kod jest jak woda... święcona. Ale lepsza.**
 
-## Wersja Beta (Czyli "Jeszcze Działa, Ale Się Nie Chwal")
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+  [![Caffeine Level](https://img.shields.io/badge/Caffeine-Critical-red.svg?style=flat-square)]()
+  [![Bugs](https://img.shields.io/badge/Bugs-Features-blue.svg?style=flat-square)]()
+  [![Legacy Code](https://img.shields.io/badge/Legacy%20Code-Burn%20It-orange.svg?style=flat-square)]()
 
-Chcesz apki? Masz apki! WBW Company to taki fast food dla developerki - szybko, tanio (może nie zawsze tanio) i czasami nawet smacznie! Tworzymy apki mobilne, webówki i inne cuda na kiju, oparte na sztucznej inteligencji, która jest tak mądra, że sama mogłaby zdawać maturę (ale nie zdaje, bo ma nas).
+</div>
 
-### Czemu WBW Company? (Bo Inni To Albo Drogo, Albo Źle)
+---
 
-*   **Ekipa Ekspertów-Śmieszków**: Pracuj z ludźmi, którzy na co dzień piją kawę z fusów i kodują w rytmie disco polo. Mamy więcej pasji niż włosów na głowie (a niektórzy z nas są łysi).
-*   **Full Serwis, Jak w Restauracji (Tylko Bez Kelnerów)**: Ogarniamy wszystko od A do Z (czyli od "Ale to nie działa" do "Zaraz, to już działa?!").
-*   **Technologie z NASA (Prawie... Kradzione z Githuba)**: Używamy tak nowoczesnych technologii, że nawet Elon Musk by się zaczerwienił (ze wstydu, że sam na to nie wpadł).
-*   **Personalizacja Level: Krawiec Na Miarę (Albo i Lepiej)**: Twoja apka będzie tak dopasowana, że poczujesz się, jakbyś zakładał ulubione kapcie.
-*   **Zero Problemów, Same Rozwiązania (Czasem Problemy Też Są)**: Ty chillujesz, my ogarniamy hosting, updejty, i te wszystkie inne nudne rzeczy. Jak Ci serwer padnie, to... trudno, bywa. Ale raczej nie padnie.
+### 👋 Elo melo w organizacji WBW Company!
 
-### WBW Company - Osiągnięcia (Którymi Lepiej Się Nie Chwalić)
+Nasze repozytoria są tak czyste, że sanepid przychodzi do nas jeść z podłogi (ale nie pozwalamy, bo RODO). Jesteśmy software housem, który rozumie, że `To Działa U Mnie™` to nie argument, tylko styl życia.
 
-*   **Bill Gates u nas sprzątał biurko.** (Przynajmniej tak twierdzi nasz CEO... w snach).
-*   **Turniej Super Smash Bros: CEO vs Stażysta**. Werdykt: Stażysta ma teraz podwyżkę, a CEO chodzi z siniakami.
-*   **Apka, która sama pisze dokumentację.** (Niestety, głównie o sobie i w języku elfickim).
-*   **Spotkania z Pizzą Level: Domino's Pizza Jest Zazdrosne.** Pizz jest WIĘCEJ niż ludzi. Tak, to możliwe.
-*   **Nasze memy mają więcej lajków niż nasz kod commitów.** I to nas BOLI.
-*   **Kuchnia>Ostatnie wdrożenie**. Serio, mamy tam ekspres do kawy, który sam opowiada kawały! (kiepskie, ale kawały).
-*   **Nasz serwer przetrwał inwazję marsjańskich programistów.** A przynajmniej tak twierdził nasz administrator... po czwartym piwie.
-* **Przekroczyliśmy 1000 commitów, pisząc z zamkniętymi oczami, lewą ręką, po 2 promilach. Jest progres**.
-*   **Nasz kot commituje więcej kodu niż junior developerzy.** (I robi to lepiej.)
-*   **Kod debugujemy rzucając lotkami do monitora.** (Skuteczność: zaskakująco wysoka).
-### WBW Company - Przydatne Linki (Klikaj Na Własną Odpowiedzialność)
+> *"Kodujemy rzeczy niemożliwe od ręki. Na cuda trzeba poczekać do następnego sprintu."*
 
-*   Strona Główna (Ładna, Ale Nie Patrz Na Kod): [https://wbwcompany.com/](https://wbwcompany.com/)
-*   Portal Deweloperski (Tu Się Dzieją Dziwne Rzeczy): [https://dev.wbwcompany.com/](https://dev.wbwcompany.com/)
-*   Dokumentacja API (Powodzenia W Zrozumieniu): [https://github.com/WBWCompany/api-docs](https://github.com/WBWCompany/api-docs)
-*   Zaproszenie na serwer Discord (Bądź Gotów Na Chaos): [https://discord.gg/sV8hb3AcnT](https://discord.gg/sV8hb3AcnT)
+---
+
+## 🚀 Czym się zajmujemy? (Oprócz picia kawy)
+
+Jesteśmy jak fast food dla developerki – ale taki rzemieślniczy, z food trucka. Tworzymy apki mobilne, webówki i systemy AI tak mądre, że boimy się je wyłączyć.
+
+### 🏆 Dlaczego WBW? (Bo nasza konkurencja używa Notatnika)
+
+* **👨‍💻 Ekipa Ekspertów-Śmieszków**
+    Pracujemy z ludźmi, którzy debugują kod w myślach pod prysznicem. Mamy więcej pasji niż StackOverflow ma pytań bez odpowiedzi.
+* **🛠️ Full Serwis (Bez napiwków)**
+    Ogarniamy wszystko od A do Z. Od *"Mam pomysł na Facebooka dla psów"* do *"O kurde, to faktycznie działa na produkcji"*.
+* **💾 Technologie z NASA (Prawie)**
+    Nasz stack technologiczny jest tak nowoczesny, że tutoriale do niego powstaną dopiero w przyszłym tygodniu.
+* **🧘 Zero Stresu, Sam Chill**
+    Kiedy serwer pada, my nie panikujemy. My włączamy i wyłączamy go ponownie. Zazwyczaj działa.
+
+---
+
+## 🎖️ Ściana Chwały (I Płaczu)
+
+Oto co udało nam się osiągnąć, zanim skończyła nam się pizza:
+
+| Osiągnięcie | Status | Komentarz |
+| :--- | :---: | :--- |
+| **Rozmowa z Billem Gatesem** | ❌ | Zadzwonił, że ma pomyłkę. Ale numer miał do nas! |
+| **Turniej w Fifę / Smash Bros** | ✅ | Stażysta wygrał. Stażysta szuka nowej pracy. |
+| **Dokumentacja Samopisząca** | ⚠️ | Działa, ale pisze wiersze w języku C++. |
+| **Liczba Commitów** | 2000+ | Z czego 800 to "fix typo" i "final fix v2". |
+| **Senior Developer** | 🐈 | Nasz kot. Jako jedyny rozumie konteneryzację w Dockerze. |
+| **Testy na Produkcji** | ☢️ | Kto nie ryzykuje, ten nie pije szampana (z Biedronki). |
+
+---
+
+## 🔗 Przydatne Linki (Klikasz na własną odpowiedzialność)
+
+<div align="center">
+
+| 🌍 Strona Główna | 👻 Portal Dev | 📚 API Docs | 💬 Discord |
+| :---: | :---: | :---: | :---: |
+| [**www.sienaucze.pl**](https://www.sienaucze.pl/)<br>*(Ładna, CSS-y się nie sypią)* | [**dev.wbwcompany.com**](https://dev.wbwcompany.com/)<br>*(Tu straszy legacy kodem)* | [**Docs**](https://github.com/WBWCompany/api-docs)<br>*(Lektura na bezsenność)* | [**Dołącz!**](https://discord.gg/sV8hb3AcnT)<br>*(Totalny chaos i memy)* |
+
+</div>
+
+---
+
+<div align="center">
+  <sub>© 2026 WBW Company. Wszelkie prawa zastrzeżone. Żaden programista nie ucierpiał podczas pisania tego README (fizycznie).</sub>
+</div>
